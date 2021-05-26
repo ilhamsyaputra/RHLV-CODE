@@ -1,0 +1,9 @@
+1.las
+3700, 4500
+3
+GR, CALI, SP
+RT
+NPHI, RHOB
+default
+log
+default
